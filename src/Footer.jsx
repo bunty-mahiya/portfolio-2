@@ -1,6 +1,6 @@
 import React from "react";
-import frame36 from "./assets/frame 36.png";
-import frame35 from "./assets/frame 35.png";
+import frame36 from "./assets/Frame 36.png";
+import frame35 from "./assets/Frame 35.png";
 import img from "./assets/img.jpg";
 
 const Footer = () => {
