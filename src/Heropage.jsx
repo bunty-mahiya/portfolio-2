@@ -2,7 +2,7 @@ import React from "react";
 import img from "./assets/img.jpg";
 import figma from "./assets/Figma.png";
 import instagram from "./assets/Instagram.png";
-import linkedin from "./assets/Linkedin.png";
+import linkedin from "./assets/LinkedIn.png";
 import telegram from "./assets/Telegram.png";
 import twitter from "./assets/Twitter.png";
 import medium from "./assets/Medium.png";
