@@ -287,6 +287,9 @@ header .img img {
     gap: 5.79px;
     border-radius: 5.79px;
   }
+  header .text .socialM .carr-dow(
+  font-size:16px;
+  )
 }
 
 /* style Rate component */
@@ -441,7 +444,7 @@ header .img img {
     display: none;
   }
   .rate-container .parent {
-    width: 386px;
+    width: 286px;
     height: 599px;
     opacity: 1;
     top: 446px;
@@ -453,7 +456,7 @@ header .img img {
     gap: 10px;
   }
   .rate-container .parent .child {
-    width: 386px;
+    width: 286px;
     height: 435px;
     display: flex;
     justify-content: center;
@@ -1011,7 +1014,7 @@ header .img img {
     height: 530px;
   }
   .footer .footer-text {
-    width: 383px;
+    width: 320px;
     height: 113px;
     bottom: 10rem;
   }
@@ -1034,13 +1037,13 @@ header .img img {
     left: 21.71px;
   }
   .footer .footer-text .text {
-    width: 220.83px;
+    width: 185.83px;
     height: 85px;
     top: 17px;
     left: 130px;
   }
   .footer .footer-text .text p {
-    font-size: 13.5px;
+    font-size: 3vw;
     line-height: 120%;
   }
   .footer .footer-text .text p span {
@@ -1059,12 +1062,12 @@ header .img img {
   }
   .footer .footer-nav .child-2 ul {
     display: flex;
-    width: 317px;
+    width: 280px;
     height: 16px;
     gap: 30px;
   }
   .footer .footer-nav .child-2 ul li {
-    font-size: 16px;
+    font-size: 13px;
     line-height: 100%;
   }
 }
