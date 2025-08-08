@@ -212,7 +212,6 @@ header .img img {
   header .text .title h1 {
     font-weight: 800;
     font-size: 14vw;
-
     line-height: 90%;
     letter-spacing: -3%;
     vertical-align: middle;
@@ -287,9 +286,9 @@ header .img img {
     gap: 5.79px;
     border-radius: 5.79px;
   }
-  header .text .socialM .carr-dow(
+  header .text .socialM .carr-dow{
   font-size:16px;
-  )
+  }
 }
 
 /* style Rate component */
